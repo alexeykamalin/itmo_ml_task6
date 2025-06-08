@@ -2,3 +2,5 @@ streamlit~=1.31.1
 fastapi
 joblib
 dvc
+dvc_s3
+scikit-learn

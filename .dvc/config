@@ -1,6 +1,6 @@
 [core]
     remote = s3_mlops
 ['remote "s3_mlops"']
-    url = s3://mlops-data/lesson5_serving_dvc
-    use_ssl = true
-    endpointurl = https://s3.lab.karpov.courses
+    url = s3://mlops-2025/lesson5_serving_dvc
+    use_ssl = false
+    endpointurl = https://89.223.69.137:9000
